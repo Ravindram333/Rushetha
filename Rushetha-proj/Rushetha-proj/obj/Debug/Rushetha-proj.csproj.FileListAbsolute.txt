@@ -1,0 +1,11 @@
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\bin\Debug\Rushetha-proj.exe.config
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\bin\Debug\Rushetha-proj.exe
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\bin\Debug\Rushetha-proj.pdb
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha-proj.csproj.AssemblyReference.cache
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha-proj.csproj.SuggestedBindingRedirects.cache
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha_proj.Form1.resources
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha_proj.Properties.Resources.resources
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha-proj.csproj.GenerateResource.cache
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha-proj.csproj.CoreCompileInputs.cache
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha-proj.exe
+G:\devops\Rushetha-project\Rushetha-proj\Rushetha-proj\obj\Debug\Rushetha-proj.pdb
