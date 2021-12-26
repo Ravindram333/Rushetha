@@ -19,7 +19,7 @@ namespace Rushetha_proj
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("i Rushetha how are you what about you");
+            MessageBox.Show("i Rushetha how are you what about you iam fine");
         }
     }
 }
